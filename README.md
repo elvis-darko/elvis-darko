@@ -1,14 +1,7 @@
+# WELCOME TO MY GITHUB REPOSITORY
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-  <div id="badges"><a href="www.linkedin.com/in/elvis-darko-el92">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@el.darkoel">
-    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/elvisdarko">
-    <img src="https://img.shields.io/badge/kaggle-red?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+  <div id="badges">
 </div><img src="https://komarev.com/ghpvc/?username=elvis-darko&style=flat-square&color=blue" alt=""/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1><div align="center">
@@ -16,7 +9,8 @@
 </div>
 </div>
 
-# HI, WELCOME TO MY GITHUB REPOSITORY
+
+## ✨ ABOUT ME ✨
 - 👋 Hello, I am Elvis Darko.
 
 - 📊 Data and Business Analyst
@@ -26,7 +20,6 @@
 - 📫 Reach me : elvis_darko@outlook.com
 
 
-## ✨ ABOUT ME ✨
 Professionally, I aspire to bring my passion and expertise in analytics to business, economics, IT and politics. I have strong passion for data, performing analysis, building compelling dashboards and outlining strategic predicitions and recommendations.
 
 Also, I use my expertise to contribute to strategic initiatives and projects in the local non-profit sector in my spare time.
@@ -38,17 +31,25 @@ My Training and Apprenticeship Projects Portfolio can be found here : . My Perso
 GitHub pages -- under construction
 
 ## 🙌🏻 Connect with me and my work 📕
-[LinkedIn](https://www.linkedin.com/in/elvis-darko-el92/)
 
-[Medium - Data Analytics Blog](https://medium.com/@el.darkoel)
-
-[Kaggle](https://www.kaggle.com/elvisdarko)
+<a href="www.linkedin.com/in/elvis-darko-el92">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  
+  <a href="https://medium.com/@el.darkoel">
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
+  </a>
+  
+  
+  <a href="https://www.kaggle.com/elvisdarko">
+    <img src="https://img.shields.io/badge/kaggle-red?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  
 
 
 ## :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elvis-darko&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-darko&layout=compact&theme=vision-friendly-dark)](https://github.com/elvis-darko/github-readme-stats)
 
 
 #### Foot Note
