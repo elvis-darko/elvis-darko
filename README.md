@@ -32,7 +32,7 @@ GitHub pages -- under construction
 
 ## 🙌🏻 Connect with me and my work 📕
 
-<a href="www.linkedin.com/in/elvis-darko-el92">
+<a href="linkedin.com/in/elvis-darko-8618bba7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
