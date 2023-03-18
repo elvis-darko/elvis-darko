@@ -52,7 +52,3 @@ GitHub pages -- under construction
 
 ## :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elvis-darko&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-#### Foot Note
-This homepage is modeled after the following account : [Isaac D. Tucker-Rasbury](https://github.com/TuckerRasbury)
