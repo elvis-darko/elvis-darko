@@ -26,7 +26,9 @@ Also, I use my expertise to contribute to strategic initiatives and projects in 
 
 
 ## 📚 PROJECTS 📚
-My Training and Apprenticeship Projects Portfolio can be found here : [PORTFOLIO PROJECTS](https://github.com/elvis-darko/Training-and-Apprenticeship-Portfolio-Projects) . My Personal Projects can be found here:
+My Training and Apprenticeship Projects Portfolio can be found here : [PORTFOLIO PROJECTS](https://github.com/elvis-darko/Training-and-Apprenticeship-Portfolio-Projects) . 
+
+My Personal Projects can be found here:
 
 GitHub pages -- under construction
 
