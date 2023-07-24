@@ -30,6 +30,8 @@ My Training and Apprenticeship Projects Portfolio can be found here :  [PORTFOLI
 
 My Personal Projects can be found here:  [PERSONAL PROJECTS](https://github.com/elvis-darko/Personal-Projects)
 
+M General GitHUb Repository can be found here : [General GitHub Repo](https://github.com/elvis-darko?tab=repositories)
+
 GitHub pages -- under construction
 
 ## 🙌🏻 Connect with me and my work 📕
