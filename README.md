@@ -15,7 +15,7 @@
 
 - 📊 Data and Business Analyst
 
-- 🛠️ Excel, SQL, Python(Data Analysis and Machine Learning), PowerBI/Tableau(Visualization), Seaborn/Matplotlib(Visualization) and Data Story-telling
+- 🛠️ Excel || SQ || Python || PowerBI || Docker || 
 
 - 📫 Reach me : elvis_darko@outlook.com
 
@@ -56,6 +56,10 @@ GitHub pages : [Elvis Darko](https://elvis-darko.github.io/)
 
    <a href="https://zindi.africa/users/elvis-d">
     <img src="https://img.shields.io/badge/zindi-purple?style=for-the-badge&logo=zindi&logoColor=white" alt="Zindi Badge"/>
+  </a>
+
+  <a href="https://huggingface.co/elvis-d">
+    <img src="https://img.shields.io/badge/Hugging Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface Badge"/>
   </a>
   
 
