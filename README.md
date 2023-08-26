@@ -30,9 +30,9 @@ My Training and Apprenticeship Projects Portfolio can be found here :  [PORTFOLI
 
 My Personal Projects can be found here:  [PERSONAL PROJECTS](https://github.com/elvis-darko/Personal-Projects)
 
-M General GitHUb Repository can be found here : [General GitHub Repo](https://github.com/elvis-darko?tab=repositories)
+M General GitHub Repository can be found here : [General GitHub Repo](https://github.com/elvis-darko?tab=repositories)
 
-GitHub pages -- under construction
+GitHub pages : [Elvis Darko](https://elvis-darko.github.io/)
 
 ## 🙌🏻 Connect with me and my work 📕
 
@@ -48,6 +48,14 @@ GitHub pages -- under construction
   
   <a href="https://www.kaggle.com/elvisdarko">
     <img src="https://img.shields.io/badge/kaggle-red?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+
+  <a href="https://elvis-darko.github.io/">
+    <img src="https://img.shields.io/badge/github pages-black?style=for-the-badge&logo=github pages&logoColor=white" alt="GitHub Pages Badge"/>
+  </a>
+
+   <a href="https://zindi.africa/users/elvis-d">
+    <img src="https://img.shields.io/badge/zindi-purple?style=for-the-badge&logo=zindi&logoColor=white" alt="Zindi Badge"/>
   </a>
   
 
