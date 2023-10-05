@@ -15,7 +15,7 @@
 
 - 📊 Data and Business Analyst
 
-- 🛠️ Excel || SQ || Python || PowerBI || Docker || 
+- 🛠️ Excel || SQL || Python || PowerBI || Docker || FastAPI || Streamlit || Gradio ||
 
 - 📫 Reach me : elvis_darko@outlook.com
 
